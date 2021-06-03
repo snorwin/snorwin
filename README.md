@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://github.com/jenting">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snorwin&show_icons=true&theme=merko&count_private=true" alt="Norwin's GitHub Stats" />
+</a>
+<br/>
 
 <!--
 **snorwin/snorwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
